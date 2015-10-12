@@ -11,19 +11,19 @@ body {
     padding: 50px 0;
     background: url('/static/images/desk-laptop-notebook-pen.jpg') no-repeat center center fixed;
     background-size: cover;
-    height: 300px;
+    min-height: 300px;
 }
 
 #about {
     padding: 50px 0;
     background: url('/static/images/people-street-sidewalk-jeans.jpg') no-repeat center center fixed;
     background-size: cover;
-    height: 500px;
+    min-height: 500px;
     font-size: 20px;
 }
 
 .mecontainer {
-	height: 400px;
+	min-height: 400px;
 }
 
 .mecontainer  .img-responsive {
@@ -36,14 +36,14 @@ body {
     padding: 50px 0;
     background: url('/static/images/restaurant-people-alcohol-bar.jpg') no-repeat center center fixed;
     background-size: cover;
-    height: 600px;
+    min-height: 600px;
 }
 
 #contact {
     padding: 50px 0;
     background: url('/static/images/startup-photos.jpg') no-repeat center center fixed;
     background-size: cover;
-    height: 500px;
+    min-height: 500px;
     color: #000;
 }
 
